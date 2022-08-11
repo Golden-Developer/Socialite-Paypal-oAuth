@@ -1,7 +1,7 @@
 # PayPal
 
 ```bash
-composer require socialiteproviders/paypal
+composer require goldendeveloper/paypal
 ```
 
 ## Installation & Basic Usage
